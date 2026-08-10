@@ -34,13 +34,13 @@ a {
 
 .section-title {
     font-size: 2.2rem;
-    color: #121212;
+    color: black;
     margin-bottom: 12px;
 }
 
 .section-subtitle {
     font-size: 1.05rem;
-    color: #666666;
+    color: gray;
 }
 
 .section-header {
@@ -103,7 +103,7 @@ a {
 }
 
 .nav-links a {
-    color: #ffffff;
+    color: white;
     margin-left: 25px;
     font-size: 0.95rem;
     font-weight: 500;
@@ -131,7 +131,7 @@ a {
 .hero-title {
     font-size: 3.5rem;
     color: #ffffff;
-    text-shadow: 3px 3px 0px #000;
+    text-shadow: 3px 3px 0px black;
     margin-bottom: 20px;
     line-height: 1.2;
 }
@@ -203,7 +203,7 @@ a {
 
 .card-title {
     font-size: 1.25rem;
-    color: #121212;
+    color: black;
     margin-bottom: 10px;
 }
 
@@ -214,11 +214,11 @@ a {
 
 .brewing-section {
     padding: 90px 0;
-    background-color: #ffffff;
+    background-color: white;
 }
 
 .guide-box {
-    background-color: #f4f6f0;
+    background-color: white;
     padding: 35px 25px;
     border-radius: 8px;
     text-align: center;
@@ -240,7 +240,7 @@ a {
 
 .guide-title {
     font-size: 1.2rem;
-    color: #121212;
+    color: black;
     margin-bottom: 12px;
 }
 
@@ -251,8 +251,8 @@ a {
 
 .contact-section {
     padding: 90px 0;
-    background-color: #121212;
-    color: #ffffff;
+    background-color: rgb(18, 18, 18);
+    color: white;
 }
 
 .light-title {
@@ -280,7 +280,7 @@ a {
 
 .contact-form {
     background-color: #1f1f1f;
-    padding: 30px;
+    padding: 40px;
     border-radius: 8px;
     border: 1px solid #333;
 }
@@ -292,10 +292,10 @@ a {
 .form-input {
     width: 100%;
     padding: 14px 18px;
-    background-color: #121212;
+    background-color: black;
     border: 1px solid #3d3d3d;
     border-radius: 4px;
-    color: #ffffff;
+    color: white;
     font-family: 'Poppins', sans-serif;
     font-size: 0.95rem;
     outline: none;
@@ -311,12 +311,11 @@ a {
 }
 
 .footer {
-    background-color: #0a0a0a;
-    color: #666666;
+    background-color: black;
+    color: gray;
     text-align: center;
     padding: 25px 0;
     font-size: 0.85rem;
-    border-top: 1px solid #1a1a1a;
 }
 
 .grid-2-col {
